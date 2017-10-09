@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "0f43b5f0d309996d668fb1e89827ee58"
+build_time: [560830629, 411927000]
+inputs:
+  "/Users/michaelvaquier/Projects/FaceAnalysis/FaceAnalysis/ViewController.swift": [9223372036854775807, 0]
+  "/Users/michaelvaquier/Projects/FaceAnalysis/FaceAnalysis/AppDelegate.swift": [9223372036854775807, 0]
